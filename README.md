@@ -34,13 +34,22 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
 
 ## 🚀 Highlighted Projects
 
-| 🔧 Category | 🧠 Tools & Skills | 🔗 Repository |
-|:------------|:----------------|:--------------|
-| **Serverless Automation** | AWS Lambda, API Gateway, S3, DynamoDB | [Serverless file upload](https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB) |
-| **Cloud Architecture (3-Tier)** | EC2, Auto Scaling, Load Balancer, VPC | [Three-Tier AWS Architecture](https://github.com/aniketchougule108/3-tier-architecture-with-s3) |
-| **CI/CD (Java App)** | Jenkins, Maven, Tomcat | [Student Registration (Java CI/CD)](https://github.com/aniketchougule108/Student-app-deploy-java-maven-project) |
-| **DevOps** | Git, GitHub, GitLab | (https://github.com/aniketchougule108/Mirror-Project-GitHub) |
-| **Node.js Pipeline** | Node.js, PM2, Jenkins | [Node App CICD](https://github.com/aniketchougule108/Node.js-App-CICD-Using-Jenkins-Webhook) |
+<table>
+  <tr>
+    <th>Domain</th>
+    <th>Projects</th>
+  </tr>
+  
+  <tr>
+    <td>AWS</td>
+    <td>Serverless file upload (https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB) </td>
+  </tr>
+  <tr>
+    <td>Row 2, Col 1</td>
+    <td>Row 2, Col 2</td>
+  </tr>
+</table>
+
 
 ---
 
