@@ -70,9 +70,9 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/<your-linkedin>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:<your-email>" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/aniketchougule" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aniketchougule108" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aniketchougule678@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/aniketchougule108" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
