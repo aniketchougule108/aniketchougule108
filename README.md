@@ -5,10 +5,11 @@
 
 <!-- Minimal typing header (decent animation) -->
 <p align="center">
-  <a href="https://github.com/aniketchougule">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=880&height=60&color=0366d6&lines=Hi+%F0%9F%91%8B+I'm+Aniket+Chougule;Cloud+&+DevOps+Engineer+%7C+AWS+%7C+DevOps+%7C+CI/CD+%7N+Linux+%2FCD" alt="Typing Animation">
+  <a href="https://github.com/aniketchougule108">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=880&lines=Hey+%F0%9F%91%8B+I'm+Aniket+Chougule;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Serverless+%7C+Linux" alt="Typing Animation">
   </a>
 </p>
+
 
 <!-- Subtle gradient header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:7C3AED&height=120&section=header&text=Aniket%20Chougule&fontSize=40&fontAlign=50&fontColor=ffffff"/>
