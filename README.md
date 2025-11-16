@@ -34,59 +34,13 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
 
 ## 🚀 Highlighted Projects
 
-<table>
-  <tr>
-    <th>Domain</th>
-    <th>Tools & Services</th>
-    <th>Projects</th>
-  </tr>
-
-  <tr>
-    <td>AWS</td>
-    <td>3-Tier with LB and AutoSaclling</td>
-    <td>
-      - <a href="https://github.com/aniketchougule108/3-tier-architecture-with-s3"></a><br>
-      </td>
-      <td>Serverless Lamabda, S3, DynamoDB
-      - <a href="https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB"></a><br>
-      </td>
-      - <a href="https://github.com/abhigiri07/Registration-Form-MYSQL-LEMP">Registration form using MYSQL with LEMP</a><br>
-      - <a href="https://github.com/abhigiri07/Automatic-Files-Organizer-Lambda-S3-SNS">Automatic File Organizer using Lambda + S3 + SNS</a>
-    
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>DevOps</td>
-    <td>
-      - <a href="https://github.com/abhigiri07/Mirroring-repository-Gitlab-to-Github">Mirroring Repository (GitLab to GitHub)</a><br>
-      - <a href="https://github.com/abhigiri07/node-app-deploy-jenkins">Node app deployment using Jenkins</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Android</td>
-    <td>Java &amp; XML</td>
-    <td>
-      - <a href="https://github.com/abhigiri07/QR-Scanner-App">QR Scanner</a><br>
-      - <a href="https://github.com/abhigiri07/Unit-Converter-App">Unit Converter</a><br>
-      - <a href="https://github.com/abhigiri07/PresentSir_AndroidApp">Attendance App</a><br>
-      - <a href="https://github.com/abhigiri07/Stop-watch">Stop Watch</a><br>
-      - <a href="https://github.com/abhigiri07/Tic_Tac_Toe">Tic Tac Toe Game</a><br>
-      - <a href="https://github.com/abhigiri07/CricScore">Cricket Scorer</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Websites</td>
-    <td>HTML, CSS, JS</td>
-    <td>
-      - <a href="https://github.com/abhigiri07/portfolio">Portfolio</a><br>
-      - <a href="https://github.com/abhigiri07/currencyconveter">Currency Converter</a><br>
-      - <a href="https://github.com/abhigiri07/Tiranga_Animation">Tiranga Animation</a>
-    </td>
-  </tr>
-</table>
+| 🔧 Category | 🧠 Tools & Skills | 🔗 Repository |
+|:------------|:----------------|:--------------|
+| **Serverless Automation** | AWS Lambda, API Gateway, S3, DynamoDB | [Serverless file upload](https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB) |
+| **Cloud Architecture (3-Tier)** | EC2, Auto Scaling, Load Balancer, VPC | [Three-Tier AWS Architecture](https://github.com/aniketchougule108/3-tier-architecture-with-s3) |
+| **CI/CD (Java App)** | Jenkins, Maven, Tomcat | [Student Registration (Java CI/CD)](https://github.com/aniketchougule108/Student-app-deploy-java-maven-project) |
+| **DevOps** | Git, GitHub, GitLab | (https://github.com/aniketchougule108/Mirror-Project-GitHub) |
+| **Node.js Pipeline** | Node.js, PM2, Jenkins | [Node App CICD](https://github.com/aniketchougule108/Node.js-App-CICD-Using-Jenkins-Webhook) |
 
 ---
 
