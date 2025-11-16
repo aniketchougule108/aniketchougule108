@@ -36,7 +36,8 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
 
 | 🔧 Category | 🧠 Tools & Skills | 🔗 Repository |
 |:------------|:----------------|:--------------|
-| **Serverless Automation** | AWS Lambda, API Gateway, S3, DynamoDB | [Serverless Weather Notification System](https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB) |
+| **AWS** | AWS Lambda, API Gateway, S3, DynamoDB | [Serverless Weather Notification System]-(https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB) |-(https://github.com/aniketchougule108/3-tier-architecture-with-s3)
+
 | **Cloud Architecture (3-Tier)** | EC2, Auto Scaling, Load Balancer, VPC | [Three-Tier AWS Architecture](https://github.com/aniketchougule108/3-tier-architecture-with-s3) |
 | **CI/CD (Java App)** | Jenkins, Maven, Tomcat | [Student Registration (Java CI/CD)](https://github.com/aniketchougule108/Student-app-deploy-java-maven-project) |
 | **DevOps** | Git, GitHub, GitLab | (https://github.com/aniketchougule108/Mirror-Project-GitHub) |
