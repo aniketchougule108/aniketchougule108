@@ -32,16 +32,15 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
 
 ---
 
-## ⚙️ Domains, Skills & Projects
+## 🚀 Highlighted Projects
 
-| Domain | Skills/Tools | Notable Projects |
-|---|---|---|
-| **Cloud** | AWS (EC2, S3, IAM, VPC, Route53) | • Portfolio CI/CD on Jenkins & EC2 |
-| **CI/CD** | Jenkins, GitHub Actions, Nginx, PM2 | • Flask CI/CD on AWS |
-| **Node & Apps** | Node.js, PM2 | • Book App CI/CD Pipeline |
-| **Serverless** | Lambda, API Gateway, DynamoDB | • Automated Document Processing (Serverless) |
-| **GitOps / Mirroring** | GitLab, GitHub, Webhooks | • GitLab–GitHub Mirroring |
-| **Tools** | Docker, Terraform, Ansible (WIP) | • Jenkins Node.js CI/CD Pipeline |
+| 🔧 Category | 🧠 Tools & Skills | 🔗 Repository |
+|:------------|:----------------|:--------------|
+| **Serverless Automation** | AWS Lambda, API Gateway, S3, DynamoDB | [Serverless Weather Notification System](https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB) |
+| **Cloud Architecture (3-Tier)** | EC2, Auto Scaling, Load Balancer, VPC | [Three-Tier AWS Architecture](https://github.com/aniketchougule108/3-tier-architecture-with-s3) |
+| **CI/CD (Java App)** | Jenkins, Maven, Tomcat | [Student Registration (Java CI/CD)](https://github.com/aniketchougule108/Student-app-deploy-java-maven-project) |
+| **DevOps** | Git, GitHub, GitLab | (https://github.com/aniketchougule108/Mirror-Project-GitHub) |
+| **Node.js Pipeline** | Node.js, PM2, Jenkins | [Node App CICD](https://github.com/aniketchougule108/Node.js-App-CICD-Using-Jenkins-Webhook) |
 
 ---
 
