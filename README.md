@@ -42,7 +42,8 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
   
   <tr>
     <td>AWS</td>
-    <td>Serverless file upload (https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB) </td>
+    <td>-Serverless file upload (https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB)</br>
+    - 3-Tier Architecture (https://github.com/aniketchougule108/3-tier-architecture-with-s3)</td>
   </tr>
   <tr>
     <td>Row 2, Col 1</td>
