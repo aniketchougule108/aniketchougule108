@@ -42,11 +42,18 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
   
   <tr>
     <td>AWS</td>
-    <td>-Serverless file upload (https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB)</br>
-    - 3-Tier Architecture (https://github.com/aniketchougule108/3-tier-architecture-with-s3)</td>
+    <td>- [Serverless-Lambda-with-s3-and-DynamoDB] (https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB)</br>
+    - [3-Tier Architecture] (https://github.com/aniketchougule108/3-tier-architecture-with-s3)</br>
+    - [Wordpress Deployment on AWS Ec2] (https://github.com/aniketchougule108/Wordpress-deployement)</br>
+    - [Automatic-File-Organizer-using-S3-Lambda-SNS] (https://github.com/aniketchougule108/Automatic-File-Organizer-using-S3-Lambda-SNS)</td>
   </tr>
   <tr>
-    <td>Row 2, Col 1</td>
+  <td>DevOps</td>
+    <td>- [Mirror Project GiHub, GitLab ](https://github.com/aniketchougule108/Mirror-Project-GitHub)</br>
+    - [Node Js App Deployment Freestyle Project] (https://github.com/aniketchougule108/Nodejs-App-Deploy-with-Jenkins-Freestyle-Project)</br>
+    - [Node.js-App-CICD-Using-Jenkins-Webhook] (https://github.com/aniketchougule108/Node.js-App-CICD-Using-Jenkins-Webhook)</br/>
+    - [Portfolio-app-deploy-Jenkins-CICD] (https://github.com/aniketchougule108/Portfolio-app-deploy-Jenkins-CICD) </br>
+    - [Student-app-deploy-java-maven-project] (https://github.com/aniketchougule108/Student-app-deploy-java-maven-project)</td>
     <td>Row 2, Col 2</td>
   </tr>
 </table>
