@@ -6,7 +6,7 @@
 <!-- Minimal typing header (decent animation) -->
 <p align="center">
   <a href="https://github.com/aniketchougule">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=880&height=60&color=0366d6&lines=Hi+%F0%9F%91%8B+I'm+Aniket+Chougule;DevOps+Engineer+%7C+Cloud+%7C+Serverless+%7C+Docker+%7C+CI%2FCD" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=880&height=60&color=0366d6&lines=Hi+%F0%9F%91%8B+I'm+Aniket+Chougule;Cloud+&+DevOps+Engineer+%7C+AWS+%7C+DevOps+%7C+CI/CD+%7N+Linux+%2FCD" alt="Typing Animation">
   </a>
 </p>
 
