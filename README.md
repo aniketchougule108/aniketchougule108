@@ -74,15 +74,6 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
 
 ---
 
-## 🌈 Featured Repos
-<p align="center">
-  <a href="https://github.com/aniketchougule108/Portfolio-app-deploy-Jenkins-CICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketchougule108&repo=Portfolio-app-deploy-Jenkins-CICD&theme=tokyonight&border_radius=12" /></a>
-  <a href="https://github.com/dalvipiyush07/Python-CI-CD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalvipiyush07&repo=Python-CI-CD&theme=tokyonight&border_radius=12" /></a>
-</p>
-
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketchougule&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
