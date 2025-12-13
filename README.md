@@ -58,7 +58,10 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
       - <a href="https://github.com/aniketchougule108/Nodejs-App-Deploy-with-Jenkins-Freestyle-Project">Node.js App Deployment (Jenkins Freestyle)</a><br>
       - <a href="https://github.com/aniketchougule108/Node.js-App-CICD-Using-Jenkins-Webhook">Node.js CI/CD Using Jenkins Webhook</a><br>
       - <a href="https://github.com/aniketchougule108/Portfolio-app-deploy-Jenkins-CICD">Portfolio App Deploy (Jenkins CI/CD)</a><br>
-      - <a href="https://github.com/aniketchougule108/Student-app-deploy-java-maven-project">Student App Deployment (Java + Maven)</a>
+      - <a href="https://github.com/aniketchougule108/Student-app-deploy-java-maven-project">Student App Deployment (Java + Maven)</a><br>
+      - <a href="https://github.com/aniketchougule108/static-website-project-terraform-jenkins">Static website Project Terraform-jenkins</a><br>
+      - <a href="https://github.com/aniketchougule108/Jarvis_Desktop_Voice_Assistant">Jarvis Desktop Voice Assistant</a><br>
+      - <a href="https://github.com/aniketchougule108/3-tier-project-using-terraform">3-Tier Project Using Terraform</a>
     </td>
   </tr>
 </table>
