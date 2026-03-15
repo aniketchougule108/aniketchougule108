@@ -61,7 +61,11 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
       - <a href="https://github.com/aniketchougule108/Student-app-deploy-java-maven-project">Student App Deployment (Java + Maven)</a><br>
       - <a href="https://github.com/aniketchougule108/static-website-project-terraform-jenkins">Static website Project Terraform-jenkins</a><br>
       - <a href="https://github.com/aniketchougule108/Jarvis_Desktop_Voice_Assistant">Jarvis Desktop Voice Assistant</a><br>
-      - <a href="https://github.com/aniketchougule108/3-tier-project-using-terraform">3-Tier Project Using Terraform</a>
+      - <a href="https://github.com/aniketchougule108/3-tier-project-using-terraform">3-Tier Project Using Terraform</a><br>
+      - <a href="https://github.com/aniketchougule108/Three-Tier-Project-Using-Docker-Containerization">Three-Tier Project using Docker Containerization</a><br>
+      - <a href="https://github.com/aniketchougule108/Blue-Green-Deployment-Project-Jenkins">Blue-Green Deployment Project Jenkins CI/CD</a><br>
+      - <a href="https://github.com/aniketchougule108/GitOps_Kubernetes_Application_Deployment_using_ArgoCD">GitOps Kubernetes Application Deployment Using ArgoCD</a><br>
+      - <a href="https://github.com/aniketchougule108/Infrastructure-Drift-Detection-Using-Terraform-AWSLambda">Infrastructure Drift Detection Using Terraform AWSLambda </a><br>
     </td>
   </tr>
 </table>
