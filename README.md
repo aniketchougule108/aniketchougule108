@@ -47,7 +47,7 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
       - <a href="https://github.com/aniketchougule108/Lambda-with-s3-and-DynamoDB">Serverless-Lambda-with-S3-and-DynamoDB</a><br>
       - <a href="https://github.com/aniketchougule108/3-tier-architecture-with-s3">3-Tier Architecture</a><br>
       - <a href="https://github.com/aniketchougule108/Wordpress-deployement">WordPress Deployment on AWS EC2</a><br>
-      - <a href="https://github.com/aniketchougule108/Automatic-File-Organizer-using-S3-Lambda-SNS">Automatic File Organizer using S3 + Lambda + SNS</a>
+      - <a href="https://github.com/aniketchougule108/Automatic-File-Organizer-using-S3-Lambda-SNS">Automatic File Organizer using S3 + Lambda + SNS</a><br>
       - <a href="https://github.com/aniketchougule108/Secure_AWS_Private_Infrastructure_with_Bastion_-IAM-Roles">Secure AWS Private Infrastructure with Bastion & IAM Roles</a><br>
     </td>
   </tr>
