@@ -6,7 +6,7 @@
 <!-- Minimal typing header (decent animation) -->
 <p align="center">
   <a href="https://github.com/aniketchougule108">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=880&lines=Hey+%F0%9F%91%8B+I'm+Aniket+Chougule;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Serverless+%7C+Linux" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=880&lines=Hey+%F0%9F%91%8B+I'm+Aniket+Chougule;Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes+%7C+Linux" alt="Typing Animation">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat" alt="linkedin"/>
 </p>
 
-<h3 align="center">🌐 DevOps Engineer | Cloud | Serverless | Docker | GitHub Actions</h3>
+<h3 align="center">🌐 DevOps Engineer | Cloud | Docker | Kubernetes | Jenkins | CI/CD Pipelines </h3>
 
 ---
 
@@ -67,6 +67,7 @@ Hi! I'm **Aniket Chougule**, a DevOps & Cloud Engineer from India. I build **CI/
       - <a href="https://github.com/aniketchougule108/Blue-Green-Deployment-Project-Jenkins">Blue-Green Deployment Project Jenkins CI/CD</a><br>
       - <a href="https://github.com/aniketchougule108/GitOps_Kubernetes_Application_Deployment_using_ArgoCD">GitOps Kubernetes Application Deployment Using ArgoCD</a><br>
       - <a href="https://github.com/aniketchougule108/Infrastructure-Drift-Detection-Using-Terraform-AWSLambda">Infrastructure Drift Detection Using Terraform AWSLambda </a><br>
+      - <a href="https://github.com/aniketchougule108/Centralized_Log_Aggregation_and_Monitoring_using_ELK_Stack">Centralized Log Aggregation and Monitoring using ELK Stack</a><br>
     </td>
   </tr>
 </table>
